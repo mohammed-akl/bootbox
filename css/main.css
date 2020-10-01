@@ -6,6 +6,9 @@
 /* =================================== */
 /*  Basic Style 
 /* =================================== */
+* {
+  /*Here we can add global properties*/
+}
 ::-moz-selection {
   /* Code for Firefox */
   background-color: #4ba0f9;
